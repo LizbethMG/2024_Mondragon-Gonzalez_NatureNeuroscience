@@ -24,7 +24,7 @@ Description: It features the electrophysiological recordings and the associated 
 
 - **Data Repository**: [Link to Data Set 1](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
 - **Data Documentation**: [Link to Data Documentation](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
-- **DOI: xxxxxxxx**
+- **DOI: 10.17605/OSF.IO/KDMJT**
 
 <a id="item-three"></a>
 ## Repository 3: Analysis LFP
@@ -39,7 +39,7 @@ Description: It features the electrophysiological recordings in the mice's orbit
 
 - **Data Repository**: [Link to Data Set 2](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
 - **Data Documentation**: [Link to Data Documentation](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
-- **DOI: xxxxxxxx**
+- **DOI: 10.17605/OSF.IO/KDMJT**
 
 ---
 <a id="item-five"></a>
@@ -47,6 +47,7 @@ Description: It features the electrophysiological recordings in the mice's orbit
 If you use this code or data we kindly ask you to cite our paper /data. 
 
 - Mondragon et al 2024: [TODO: DOI here](https://github.com/LizbethMG/Mondragon_NatNeuro_CL)
+- Data: DOI 10.17605/OSF.IO/KDMJT
 
 Please check out the following references for more details:
 
