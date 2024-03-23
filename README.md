@@ -20,10 +20,9 @@ Description: Designed to detect pre-grooming events in mice by analyzing local f
 
 <a id="item-two"></a>
 ## Repository 2: Data Set 1
-Description: It features the electrophysiological recordings and the associated grooming markers used in the paper to asses the closed-loop algorithm. The data is available at the [Open Science Framework](https://osf.io/).
+Description: It features the electrophysiological recordings and the associated grooming markers used in the paper to asses the closed-loop algorithm. The data is compressed and available at the [Open Science Framework](https://osf.io/).
 
 - **Data Repository**: [Link to Data Set 1](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
-- **Data Documentation**: [Link to Data Documentation](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
 - **DOI: 10.17605/OSF.IO/KDMJT**
 
 <a id="item-three"></a>
@@ -38,7 +37,6 @@ Description: This repository contains the local field potential analysis scripts
 Description: It features the electrophysiological recordings in the mice's orbitofrontal cortex around grooming events. The data is available at the [Open Science Framework](https://osf.io/).
 
 - **Data Repository**: [Link to Data Set 2](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
-- **Data Documentation**: [Link to Data Documentation](https://osf.io/kdmjt/?view_only=7a3e37c708df4d0198d48aa1f59dbb76)
 - **DOI: 10.17605/OSF.IO/KDMJT**
 
 ---
