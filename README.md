@@ -16,7 +16,7 @@ This is a guide to the code and data for the paper **Mondragón-González, S. L.
 Description: Designed to detect pre-grooming events in mice by analyzing local field potential (LFP) recordings. It uses triangular filters for feature selection, reducing data to a matrix of decorrelated coefficients. These coefficients are the input for an artificial neural network to classify behavioral states. It includes its own demo data.
 
 - **Code**: [Link to code](https://github.com/LizbethMG/NatureNeuroscience_2024_TriFilterNet)
-- **Related Data**: [Link to Related Data](https://github.com/LizbethMG/NatureNeuroscience_2024_TriFilterNet/tree/main/demo_data)
+- **Related Data**: [Link to Related Data](https://osf.io/kdmjt/)
 
 <a id="item-two"></a>
 ## Repository 2: Data Set 1
