@@ -1,7 +1,7 @@
 # Closed-loop recruitment of striatal interneurons prevents compulsive-like grooming behaviours.
 
 
-This is a guide to the code and data for the paper **Mondragón-González, S. L., Schreiweis C, C., & Burguière E, E. (2024). Closed-loop recruitment of striatal parvalbumin interneurons prevents compulsive-like grooming behaviours. Nature Neuroscience**. [Link to Paper.](https://github.com/LizbethMG/2024_Mondragon-Gonzalez_NatureNeuroscience) Each listed repository is dedicated to a specific type of analysis or dataset. Please follow the links provided to explore the repositories in detail.
+This is a guide to the code and data for the paper **Mondragón-González, S. L., Schreiweis C, C., & Burguière E, E. (2024). Closed-loop recruitment of striatal parvalbumin interneurons prevents compulsive-like grooming behaviours. Nature Neuroscience**. [Link to Paper.](https://www.nature.com/articles/s41593-024-01633-3) Each listed repository is dedicated to a specific type of analysis or dataset. Please follow the links provided to explore the repositories in detail.
 
 ## Table of Contents
 - [Repository 1: Closed-loop - TriFilterNet](#item-one)
@@ -46,13 +46,14 @@ If you use this code or data we kindly ask you to cite our work.
 - <b> Data: </b>
 > (APA style) Mondragón-González, S. L. (2024, March 26). 2024_Mondragon-Gonzalez_NatureNeuroscience. https://doi.org/10.17605/OSF.IO/KDMJT
 
-- <b> Article: </b> Mondragon et al 2024: [TODO: DOI here](https://github.com/LizbethMG/Mondragon_NatNeuro_CL)
+- <b> Article: </b> Mondragon et al 2024: [DOI](https://doi.org/10.1038/s41593-024-01633-3)
+
 > @article{Mondragon2024,
         title = {Closed-loop recruitment of striatal interneurons prevents compulsive-like grooming behaviours},
         author = {Sirenia Lizbeth Mondragón-González and Christiane Schreiweis and Eric Burguière},
         journal = {Nature Neuroscience},
         year = {2024},
-        url = { TODO }}
+        url = {https://www.nature.com/articles/s41593-024-01633-3}}
 
     
 
